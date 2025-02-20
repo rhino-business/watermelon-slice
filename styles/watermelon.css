@@ -1,9 +1,9 @@
         .container_huge {
-			     display: grid;
-			     border: 0.02rem solid transparent;
-			     place-items: center;
-			     background: #CDF3EB;
-		    }
+	    display: grid;
+	    border: 0.02rem solid transparent;
+	    place-items: center;
+	    background: #CDF3EB;
+	}
         .w_melon {
            display: grid;
            border: 0.01rem solid transparent;
@@ -130,7 +130,6 @@
             z-index: 1000;
             box-shadow: 0 0 0.2rem 0.01rem #FFFCFA; 
           }
-          
           @media(min-width: 1950px) {
                     .container_huge {
                         width: 1400px;
